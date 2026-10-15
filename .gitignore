@@ -1,0 +1,18 @@
+# 1. Arquivos compilados do Java
+*.class
+*.jar
+
+# 2. Diretórios de saída (onde o IntelliJ guarda o código compilado)
+out/
+build/
+target/
+
+# 3. Configurações específicas do IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.eml
+
+# 4. Arquivos de Sistema Operacional (Boas práticas)
+.DS_Store
+Thumbs.db
